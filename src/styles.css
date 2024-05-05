@@ -134,6 +134,7 @@ button.add {
 
 .uphand-styles {
   color: green;
+  border: solid;
 }
 
 .downhand-styles {
@@ -166,5 +167,6 @@ button.add {
   .menu a:hover {
     padding: 0;
     background: transparent;
+    color: #000;
   }
 }
