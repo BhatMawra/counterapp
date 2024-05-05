@@ -120,11 +120,11 @@ div {
 }
 
 button.subtract {
-  background-color:burlywood;
+  background-color:rgb(219, 212, 203);
 }
 
 button.reset {
-  background-color: burlywood;
+  background-color: rgb(219, 212, 203);
   color: #1e8cfa;
 }
 
