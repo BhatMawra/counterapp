@@ -24,3 +24,5 @@ function setColor() {
         count.style.color = "orangered";
     } else {
         count.style.color = "#fff";
+    }
+}
